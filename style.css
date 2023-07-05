@@ -40,6 +40,12 @@ img {
   max-width: 100%;
 }
 
+footer {
+  font-size: 10px;
+  opacity: 60%;
+  text-align: end;
+}
+
 .navigation-links {
   display: flex;
   margin-top: 40px;
